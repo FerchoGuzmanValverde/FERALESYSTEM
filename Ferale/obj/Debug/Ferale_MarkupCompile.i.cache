@@ -1,0 +1,20 @@
+﻿Ferale
+
+
+winexe
+C#
+.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\
+Ferale
+none
+false
+DEBUG;TRACE
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\App.xaml
+69-57860395
+
+82476146829
+42-1226669922
+Controles\GestionEconomica\ControlCompras.xaml;Controles\GestionEconomica\ControlSueldos.xaml;Controles\GestionEconomica\ControlVentas.xaml;Controles\GestionEconomica\SubControlesCompras\EditarCompra.xaml;Controles\GestionEconomica\SubControlesCompras\InsertarCompra.xaml;Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.xaml;Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.xaml;Controles\GestionEconomica\SubControlesVentas\EditarVenta.xaml;Controles\GestionEconomica\SubControlesVentas\InsertarVenta.xaml;Controles\Inventario\ControlIngresos.xaml;Controles\Inventario\ControlSalidas.xaml;Controles\Inventario\VentanasProduccion\EditarProduccion.xaml;Controles\Inventario\VentanasProduccion\RegistrarProduccion.xaml;Controles\Limpiezas\ControlLimpiezas.xaml;Controles\Limpiezas\ControlPlagas.xaml;Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.xaml;Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.xaml;Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.xaml;Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.xaml;Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.xaml;Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.xaml;Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.xaml;Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.xaml;Controles\Limpiezas\VentanasPlaga\EditarPlaga.xaml;Controles\Limpiezas\VentanasPlaga\InsertarPlaga.xaml;Controles\Principal\Inicio.xaml;Controles\Principal\SobreEmpresa.xaml;Controles\Principal\SobreSistema.xaml;Controles\Registros\ControlClientes.xaml;Controles\Registros\ControlEmpleados.xaml;Controles\Registros\ControlMateriaPrima.xaml;Controles\Registros\ControlProductos.xaml;Controles\Registros\ControlProveedores.xaml;Controles\Registros\ControlServicio.xaml;Controles\Registros\VentanasClientes\InsertCliente.xaml;Controles\Registros\VentanasClientes\UpdateCliente.xaml;Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.xaml;Controles\Registros\VentanasEmpleado\EditAreaEmpleado.xaml;Controles\Registros\VentanasEmpleado\EditarEmpleado.xaml;Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.xaml;Controles\Registros\VentanasEmpleado\InsertarEmpleado.xaml;Controles\Registros\VentanasMateriaPrima\EditarAlmacen.xaml;Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.xaml;Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.xaml;Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.xaml;Controles\Registros\VentanasMateriaPrima\WindowAlmacen.xaml;Controles\Registros\VentanasProductos\AdminTipoProductos.xaml;Controles\Registros\VentanasProductos\EditarProducto.xaml;Controles\Registros\VentanasProductos\EditarTipoProducto.xaml;Controles\Registros\VentanasProductos\InsertarProducto.xaml;Controles\Registros\VentanasProductos\InsertarTipoProducto.xaml;Controles\Registros\VentanasProveedor\EditarProveedor.xaml;Controles\Registros\VentanasProveedor\InsertarProveedor.xaml;Controles\Registros\VentanasServicio\EditarServicio.xaml;Controles\Registros\VentanasServicio\InsertarServicio.xaml;Controles\Reportes\ControlReporteClientes.xaml;Controles\Reportes\ControlReporteCompras.xaml;Controles\Reportes\ControlReporteLimpiezas.xaml;Controles\Reportes\ControlReporteProductos.xaml;Controles\Reportes\ControlReporteProveedores.xaml;Controles\Reportes\ControlReporteStock.xaml;Controles\Reportes\ControlReporteVentas.xaml;Principal\FBDialog.xaml;Principal\ForgotPassword.xaml;Principal\Login.xaml;Principal\MainWindow.xaml;Controles\Menu\UserControlMenuItem.xaml;Principal\Settings.xaml;Principal\SplashScreen.xaml;
+
+True
+

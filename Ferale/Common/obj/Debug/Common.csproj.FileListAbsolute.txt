@@ -1,0 +1,40 @@
+C:\Users\dorit\OneDrive\Documents\Ferale\Common\bin\Debug\Common.dll
+C:\Users\dorit\OneDrive\Documents\Ferale\Common\bin\Debug\Common.pdb
+C:\Users\dorit\OneDrive\Documents\Ferale\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\dorit\OneDrive\Documents\Ferale\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\dorit\OneDrive\Documents\Ferale\Common\obj\Debug\Common.dll
+C:\Users\dorit\OneDrive\Documents\Ferale\Common\obj\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\bin\Debug\Common.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\bin\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\Common\bin\Debug\Common.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\Common\bin\Debug\Common.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\Common\obj\Debug\Common.csprojAssemblyReference.cache
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\Common\obj\Debug\Common.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\Common\obj\Debug\Common.pdb
+F:\ferale\Ferale\Common\bin\Debug\Common.dll
+F:\ferale\Ferale\Common\bin\Debug\Common.pdb
+F:\ferale\Ferale\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\ferale\Ferale\Common\obj\Debug\Common.dll
+F:\ferale\Ferale\Common\obj\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\bin\Debug\Common.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\bin\Debug\Common.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\Common\bin\Debug\Common.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\Common\bin\Debug\Common.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\dorit\OneDrive\Escritorio\Ferale\Common\obj\Debug\Common.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\Common\obj\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\Common\bin\Debug\Common.dll.config
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\Common\bin\Debug\Common.dll.config
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\Common\bin\Debug\Common.dll
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\Common\bin\Debug\Common.pdb
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.dll
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\Common\obj\Debug\Common.pdb

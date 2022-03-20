@@ -1,0 +1,38 @@
+﻿<Window x:Class="Ferale.Controles.Registros.VentanasEmpleado.AdminAreaEmpleado"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ferale.Controles.Registros.VentanasEmpleado"
+        mc:Ignorable="d"
+        Title="AdminAreaEmpleado"  Height="506.687" Width="720.709"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        BorderBrush="{StaticResource GreenBrush}" BorderThickness="4" Loaded="Window_Loaded"
+        >
+    <Grid>
+        <materialDesign:ColorZone Background="{StaticResource GreenBrush}" Foreground="{StaticResource WhiteBrush}" Grid.Column="1"  Grid.Row="1"  HorizontalAlignment="Stretch">
+            <Grid>
+                <Button x:Name="Close" Width="50" Margin="0,10,10,4" HorizontalAlignment="Right" Click="Close_Click">
+                    <materialDesign:PackIcon Kind="Close"/>
+                </Button>
+            </Grid>
+        </materialDesign:ColorZone>
+
+        <Label Content="ADMINISTRACIÓN DE ÁREAS DE TRABAJO" Margin="10,49,10,0" VerticalAlignment="Top" Height="62" FontSize="36"/>
+        <materialDesign:Card x:Name="cardInsertar" Height="58" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Insert_MouseLeftButtonUp" Margin="492,116,37,0">
+            <TextBlock FontSize="18" Foreground="{StaticResource WhiteBrush}" Text="Insertar Área" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </materialDesign:Card>
+        <materialDesign:Card x:Name="cardEditar" Height="58" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Update_MouseLeftButtonUp" Margin="492,207,37,0">
+            <TextBlock FontSize="18" Foreground="{StaticResource WhiteBrush}" Text="Editar Área" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </materialDesign:Card>
+        <materialDesign:Card x:Name="cardEliminar" Height="58" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Delete_MouseLeftButtonUp" Margin="492,301,37,0">
+            <TextBlock FontSize="18" Foreground="{StaticResource WhiteBrush}" Text="Eliminar Área" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </materialDesign:Card>
+
+        <materialDesign:Card Height="353" Margin="68,116,264,0" HorizontalAlignment="Center" Width="381">
+            <DataGrid Grid.ColumnSpan="3" x:Name="dgArea" SelectionChanged="DgArea_SelectionChanged" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True">
+            </DataGrid>
+        </materialDesign:Card>
+    </Grid>
+</Window>

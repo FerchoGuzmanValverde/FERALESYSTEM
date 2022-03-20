@@ -1,0 +1,1032 @@
+C:\Users\dorit\OneDrive\Documents\Ferale\bin\Debug\Ferale.exe.config
+C:\Users\dorit\OneDrive\Documents\Ferale\bin\Debug\Ferale.exe
+C:\Users\dorit\OneDrive\Documents\Ferale\bin\Debug\Ferale.pdb
+C:\Users\dorit\OneDrive\Documents\Ferale\bin\Debug\BRL.dll
+C:\Users\dorit\OneDrive\Documents\Ferale\bin\Debug\Common.dll
+C:\Users\dorit\OneDrive\Documents\Ferale\bin\Debug\BRL.pdb
+C:\Users\dorit\OneDrive\Documents\Ferale\bin\Debug\Common.pdb
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\FeraleWPF.csprojAssemblyReference.cache
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\MainWindow.g.cs
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\App.g.cs
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\Ferale_MarkupCompile.cache
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\Ferale_MarkupCompile.lref
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\MainWindow.baml
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\Ferale.g.resources
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\Ferale.Properties.Resources.resources
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\FeraleWPF.csproj.GenerateResource.cache
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\FeraleWPF.csproj.CoreCompileInputs.cache
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\FeraleWPF.csproj.CopyComplete
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\Ferale.exe
+C:\Users\dorit\OneDrive\Documents\Ferale\obj\Debug\Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Ferale.exe.config
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Ferale.exe
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\BRL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Common.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\BRL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\App.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.lref
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.g.resources
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.Properties.Resources.resources
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\FeraleWPF.csproj.GenerateResource.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.exe
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignColors.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MetroFramework.Design.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MetroFramework.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MetroFramework.Fonts.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignColors.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\App.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Ferale.exe.config
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Ferale.exe
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Ferale.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\BRL.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Common.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignColors.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MetroFramework.Design.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MetroFramework.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MetroFramework.Fonts.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\BRL.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Common.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignColors.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\FeraleWPF.csprojAssemblyReference.cache
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\MainWindow.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\App.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.cache
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.lref
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\App.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\MainWindow.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.baml
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale.g.resources
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale.Properties.Resources.resources
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\FeraleWPF.csproj.GenerateResource.cache
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\FeraleWPF.csproj.CoreCompileInputs.cache
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\FeraleWPF.csproj.CopyComplete
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale.exe
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\SplashScreen.g.cs
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\SplashScreen.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\DAL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\DAL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\MainWindow.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\SplashScreen.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\MainWindow.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\SplashScreen.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Ferale.exe.config
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Ferale.exe
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Ferale.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\BRL.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Common.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignColors.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MetroFramework.Design.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MetroFramework.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MetroFramework.Fonts.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\DAL.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\BRL.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\Common.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignColors.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\DAL.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\bin\Debug\DAL.dll.config
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\FeraleWPF.csprojAssemblyReference.cache
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Principal\MainWindow.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Principal\SplashScreen.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\App.g.cs
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.cache
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.lref
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\App.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Principal\MainWindow.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Principal\SplashScreen.baml
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale.g.resources
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale.Properties.Resources.resources
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\FeraleWPF.csproj.GenerateResource.cache
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\FeraleWPF.csproj.CoreCompileInputs.cache
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\FeraleWPF.csproj.CopyComplete
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale.exe
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\obj\Debug\Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlServicio.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlServicio.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\System.Drawing.Common.dll
+F:\ferale\Ferale\bin\Debug\Ferale.exe.config
+F:\ferale\Ferale\obj\Debug\Ferale.exe
+F:\ferale\Ferale\obj\Debug\Ferale.pdb
+F:\ferale\Ferale\bin\Debug\Ferale.exe
+F:\ferale\Ferale\bin\Debug\Ferale.pdb
+F:\ferale\Ferale\bin\Debug\BRL.dll
+F:\ferale\Ferale\bin\Debug\Common.dll
+F:\ferale\Ferale\bin\Debug\MaterialDesignColors.dll
+F:\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\ferale\Ferale\bin\Debug\MetroFramework.Design.dll
+F:\ferale\Ferale\bin\Debug\MetroFramework.dll
+F:\ferale\Ferale\bin\Debug\MetroFramework.Fonts.dll
+F:\ferale\Ferale\bin\Debug\System.Drawing.Common.dll
+F:\ferale\Ferale\bin\Debug\DAL.dll
+F:\ferale\Ferale\bin\Debug\BRL.pdb
+F:\ferale\Ferale\bin\Debug\Common.pdb
+F:\ferale\Ferale\bin\Debug\MaterialDesignColors.pdb
+F:\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\ferale\Ferale\bin\Debug\DAL.pdb
+F:\ferale\Ferale\obj\Debug\FeraleWPF.csprojResolveAssemblyReference.cache
+F:\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlServicio.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.g.cs
+F:\ferale\Ferale\obj\Debug\Principal\MainWindow.g.cs
+F:\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.g.cs
+F:\ferale\Ferale\obj\Debug\Principal\SplashScreen.g.cs
+F:\ferale\Ferale\obj\Debug\App.g.cs
+F:\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.cache
+F:\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.lref
+F:\ferale\Ferale\obj\Debug\App.baml
+F:\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.baml
+F:\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.baml
+F:\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.baml
+F:\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.baml
+F:\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.baml
+F:\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.baml
+F:\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\ControlServicio.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.baml
+F:\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.baml
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.baml
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.baml
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.baml
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.baml
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.baml
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.baml
+F:\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.baml
+F:\ferale\Ferale\obj\Debug\Principal\MainWindow.baml
+F:\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.baml
+F:\ferale\Ferale\obj\Debug\Principal\SplashScreen.baml
+F:\ferale\Ferale\obj\Debug\Ferale.g.resources
+F:\ferale\Ferale\obj\Debug\Ferale.Properties.Resources.resources
+F:\ferale\Ferale\obj\Debug\FeraleWPF.csproj.GenerateResource.Cache
+F:\ferale\Ferale\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+F:\ferale\Ferale\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\EditarPlaga.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\InsertarPlaga.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\EditarPlaga.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\InsertarPlaga.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Login.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Login.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Settings.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Settings.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\ForgotPassword.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\ForgotPassword.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Ferale.exe.config
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.exe
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Ferale.exe
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Ferale.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\BRL.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Common.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignColors.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MetroFramework.Design.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MetroFramework.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MetroFramework.Fonts.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\System.Drawing.Common.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\DAL.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\BRL.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Common.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignColors.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\DAL.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\FeraleWPF.csprojResolveAssemblyReference.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\EditarPlaga.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\InsertarPlaga.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlServicio.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\ForgotPassword.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Login.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\MainWindow.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Settings.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\SplashScreen.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\App.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.lref
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\App.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\EditarPlaga.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\InsertarPlaga.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlServicio.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\ForgotPassword.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Login.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\MainWindow.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Settings.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\SplashScreen.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.g.resources
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.Properties.Resources.resources
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\FeraleWPF.csproj.GenerateResource.Cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\FBDialog.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\FBDialog.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\FeraleWPF.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\FeraleWPF.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\DAL.dll.config
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\EditarVenta.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\InsertarVenta.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\EditarVenta.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\InsertarVenta.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\EditarCompra.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\InsertarCompra.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\EditarCompra.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\InsertarCompra.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\Inicio.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreEmpresa.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreSistema.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\Inicio.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreEmpresa.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreSistema.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\EditarCompra.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\InsertarCompra.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\EditarVenta.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\InsertarVenta.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\Inicio.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreEmpresa.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreSistema.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\FBDialog.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\EditarCompra.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\InsertarCompra.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\EditarVenta.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\InsertarVenta.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\Inicio.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreEmpresa.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreSistema.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\FBDialog.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\Ferale.exe.config
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Ferale.exe
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Ferale.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\Ferale.exe
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\Ferale.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\BRL.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\Common.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\MaterialDesignColors.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\MetroFramework.Design.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\MetroFramework.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\System.Drawing.Common.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\DAL.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\BRL.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\Common.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\MaterialDesignColors.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\bin\Debug\DAL.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\FeraleWPF.csprojResolveAssemblyReference.cache
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\EditarCompra.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\InsertarCompra.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\EditarVenta.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\InsertarVenta.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\EditarPlaga.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\InsertarPlaga.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Principal\Inicio.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Principal\SobreEmpresa.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Principal\SobreSistema.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlClientes.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlProductos.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlProveedores.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlServicio.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\FBDialog.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\ForgotPassword.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\Login.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\MainWindow.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\Settings.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\SplashScreen.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\App.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Ferale_MarkupCompile.cache
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Ferale_MarkupCompile.lref
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\App.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\EditarCompra.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\InsertarCompra.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\EditarVenta.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\InsertarVenta.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\EditarPlaga.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\InsertarPlaga.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Principal\Inicio.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Principal\SobreEmpresa.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Principal\SobreSistema.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlClientes.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlProductos.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlProveedores.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\ControlServicio.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\FBDialog.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\ForgotPassword.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\Login.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\MainWindow.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\Settings.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Principal\SplashScreen.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Ferale.g.resources
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Ferale.Properties.Resources.resources
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\FeraleWPF.csproj.GenerateResource.Cache
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\EditarProduccion.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\RegistrarProduccion.g.cs
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\EditarProduccion.baml
+C:\Users\dorit\OneDrive\Escritorio\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\RegistrarProduccion.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\EditarProduccion.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\RegistrarProduccion.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\EditarProduccion.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\RegistrarProduccion.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.OpenXmlRendering.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.XpsRendering.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.Themes.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Data.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Data.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.OpenXmlRendering.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.OpenXmlRendering.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.XpsRendering.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.XpsRendering.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.Themes.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.Themes.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Data.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Data.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.Controles.Reportes.ListaClientes.resources
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.exe.licenses
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.Shared.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\FlashControlV71.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\ShockwaveFlashObjects.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\stdole.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\BRL.dll.config
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Common.dll.config
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.Shared.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\FlashControlV71.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Input.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\stdole.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\ShockwaveFlashObjects.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.OpenXmlRendering.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.OpenXmlRendering.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.XpsRendering.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Reporting.XpsRendering.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.Themes.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.ReportViewer.Wpf.Themes.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Data.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Data.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\Telerik.Windows.Controls.Input.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\EditarProduccion.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\RegistrarProduccion.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\EditarProduccion.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\RegistrarProduccion.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.Controles.Reportes.ListaClientes.resources
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.exe.licenses
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\FeraleWPF.csproj.AssemblyReference.cache
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\EditarCompra.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\InsertarCompra.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\EditarVenta.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\InsertarVenta.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\EditarProduccion.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\RegistrarProduccion.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\EditarPlaga.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\InsertarPlaga.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\Inicio.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreEmpresa.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreSistema.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlServicio.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\FBDialog.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\ForgotPassword.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Login.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\MainWindow.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Settings.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\SplashScreen.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\App.g.cs
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.cache
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale_MarkupCompile.lref
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\App.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlCompras.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlSueldos.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\ControlVentas.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\EditarCompra.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesCompras\InsertarCompra.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\EditarVenta.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\GestionEconomica\SubControlesVentas\InsertarVenta.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlIngresos.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\ControlSalidas.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\EditarProduccion.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Inventario\VentanasProduccion\RegistrarProduccion.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlLimpiezas.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\ControlPlagas.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\EditarPlaga.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Limpiezas\VentanasPlaga\InsertarPlaga.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\Inicio.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreEmpresa.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Principal\SobreSistema.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlClientes.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlEmpleados.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlMateriaPrima.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProductos.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlProveedores.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\ControlServicio.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\InsertCliente.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasClientes\UpdateCliente.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditAreaEmpleado.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\EditarEmpleado.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasEmpleado\InsertarEmpleado.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarAlmacen.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasMateriaPrima\WindowAlmacen.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\AdminTipoProductos.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarProducto.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\EditarTipoProducto.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarProducto.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProductos\InsertarTipoProducto.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\EditarProveedor.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasProveedor\InsertarProveedor.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\EditarServicio.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Registros\VentanasServicio\InsertarServicio.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteClientes.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteCompras.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteLimpiezas.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProductos.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteProveedores.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteStock.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Reportes\ControlReporteVentas.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\FBDialog.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\ForgotPassword.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Login.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\MainWindow.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Controles\Menu\UserControlMenuItem.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\Settings.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Principal\SplashScreen.baml
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.g.resources
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.Controles.Reportes.ListaClientes.resources
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.Properties.Resources.resources
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\FeraleWPF.csproj.GenerateResource.cache
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.exe.licenses
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\obj\Debug\Ferale.pdb

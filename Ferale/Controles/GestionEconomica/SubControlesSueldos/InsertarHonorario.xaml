@@ -1,0 +1,42 @@
+﻿<Window x:Class="Ferale.Controles.GestionEconomica.SubControlesSueldos.InsertarHonorario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ferale.Controles.GestionEconomica.SubControlesSueldos"
+        mc:Ignorable="d"
+        Title="InsertarHonorario" Height="737.645" Width="562.246"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        BorderBrush="{StaticResource GreenBrush}" BorderThickness="4" Loaded="Window_Loaded"
+        >
+    <Grid>
+        <materialDesign:ColorZone Background="{StaticResource GreenBrush}" Foreground="{StaticResource WhiteBrush}" Grid.Column="1"  Grid.Row="1"  HorizontalAlignment="Stretch">
+            <Grid>
+                <Button x:Name="Close" Width="50" Margin="0,10,10,4" HorizontalAlignment="Right" Click="Close_Click">
+                    <materialDesign:PackIcon Kind="Close"/>
+                </Button>
+                <Label Content="NUEVO HONORARIO" Margin="98,10,0,-10" VerticalAlignment="Top" Height="62" FontSize="36" RenderTransformOrigin="-0.52,0.898" HorizontalAlignment="Left" Width="347"/>
+            </Grid>
+        </materialDesign:ColorZone>
+
+        <materialDesign:Card Margin="54,111,0,0" HorizontalAlignment="Left" Width="433" VerticalAlignment="Top" Height="511">
+            <Grid Margin="0,0,10,0">
+                <TextBox x:Name="txtMontoTotalCancelado"  Grid.Row="0" Grid.Column="0" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Total Cancelado" Margin="53,30,0,0" FontSize="16" HorizontalAlignment="Left" Width="303"/>
+                <TextBox x:Name="txtDiaCompleto"  Grid.Row="0" Grid.Column="0" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Dias Completos de Trabajo" Margin="53,90,0,0" FontSize="16" HorizontalAlignment="Left" Width="303"/>
+                <TextBox x:Name="txtMedioDia"  Grid.Row="0" Grid.Column="0" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Medios Dias Trabajados" Margin="53,155,0,0" FontSize="16" HorizontalAlignment="Left" Width="303"/>
+                <TextBox x:Name="txtPagoMedioDia"  Grid.Row="0" Grid.Column="0" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Pago Medio/Dia" Margin="53,228,0,0" FontSize="16" HorizontalAlignment="Left" Width="303"/>
+                <DatePicker x:Name="dateDiaFinalPagado" HorizontalAlignment="Left" Margin="53,305,0,0" VerticalAlignment="Top" Height="39" Width="303" materialDesign:HintAssist.Hint="Ultimo Día Cancelado" materialDesign:HintAssist.IsFloating="True"/>
+                <TextBox x:Name="txtEmpleado"  Grid.Row="0" Grid.Column="0" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Nombre Empleado" Margin="53,375,0,0" FontSize="16" HorizontalAlignment="Left" Width="303"/>
+                <ComboBox x:Name="cbxMes" HorizontalAlignment="Left" Margin="53,443,0,0" VerticalAlignment="Top" Width="303" Height="41" materialDesign:HintAssist.Hint="Mes"/>
+
+            </Grid>
+        </materialDesign:Card>
+        <materialDesign:Card x:Name="cardGuardar" Height="51" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Guardar_MouseLeftButtonUp" Margin="291,649,0,0" HorizontalAlignment="Left" Width="196">
+            <TextBlock FontSize="18" Foreground="{StaticResource WhiteBrush}" Text="GUARDAR" VerticalAlignment="Top" Margin="0,14,49,0" HorizontalAlignment="Right" Width="89"/>
+        </materialDesign:Card>
+        <materialDesign:Card x:Name="cardCancelar" Height="52" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Cancelar_MouseLeftButtonUp" Margin="54,648,0,0" HorizontalAlignment="Left" Width="202">
+            <TextBlock FontSize="18" Foreground="{StaticResource WhiteBrush}" Text="CANCELAR" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </materialDesign:Card>
+    </Grid>
+</Window>

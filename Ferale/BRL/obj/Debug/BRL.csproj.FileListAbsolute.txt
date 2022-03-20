@@ -1,0 +1,88 @@
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\bin\Debug\BRL.dll
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\bin\Debug\BRL.pdb
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\bin\Debug\Common.dll
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\bin\Debug\DAL.dll
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\bin\Debug\Common.pdb
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\bin\Debug\DAL.pdb
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\obj\Debug\BRL.csprojAssemblyReference.cache
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\obj\Debug\BRL.csproj.CoreCompileInputs.cache
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\obj\Debug\BRL.csproj.CopyComplete
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\obj\Debug\BRL.dll
+C:\Users\dorit\OneDrive\Documents\Ferale\BRL\obj\Debug\BRL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\BRL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\BRL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\Common.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\DAL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\DAL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\BRL.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\BRL.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\Common.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\DAL.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\Common.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\DAL.pdb
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.csprojAssemblyReference.cache
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.csproj.CoreCompileInputs.cache
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.csproj.CopyComplete
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.dll
+F:\4to Semester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\BRL.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\BRL.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\Common.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\DAL.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\Common.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\DAL.pdb
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\bin\Debug\DAL.dll.config
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.csprojAssemblyReference.cache
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.csproj.CoreCompileInputs.cache
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.csproj.CopyComplete
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.dll
+F:\4toSemester\Base de Datos III\AppFerale\ferale\Ferale\BRL\obj\Debug\BRL.pdb
+F:\ferale\Ferale\BRL\bin\Debug\BRL.dll
+F:\ferale\Ferale\BRL\bin\Debug\BRL.pdb
+F:\ferale\Ferale\BRL\bin\Debug\Common.dll
+F:\ferale\Ferale\BRL\bin\Debug\DAL.dll
+F:\ferale\Ferale\BRL\bin\Debug\Common.pdb
+F:\ferale\Ferale\BRL\bin\Debug\DAL.pdb
+F:\ferale\Ferale\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+F:\ferale\Ferale\BRL\obj\Debug\BRL.dll
+F:\ferale\Ferale\BRL\obj\Debug\BRL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\DAL.dll.config
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.csproj.CopyComplete
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\BRL.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\BRL.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\Common.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\DAL.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\Common.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\DAL.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\BRL\bin\Debug\BRL.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\BRL\bin\Debug\BRL.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\BRL\bin\Debug\Common.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\BRL\bin\Debug\DAL.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\BRL\bin\Debug\Common.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\BRL\bin\Debug\DAL.pdb
+C:\Users\dorit\OneDrive\Escritorio\Ferale\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+C:\Users\dorit\OneDrive\Escritorio\Ferale\BRL\obj\Debug\BRL.dll
+C:\Users\dorit\OneDrive\Escritorio\Ferale\BRL\obj\Debug\BRL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\BRL.dll.config
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\Common.dll.config
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\BRL.dll.config
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\BRL.dll
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\BRL.pdb
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\Common.dll
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\DAL.dll
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\Common.pdb
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\Common.dll.config
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\DAL.pdb
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\bin\Debug\DAL.dll.config
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.csproj.AssemblyReference.cache
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.csproj.CopyComplete
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.dll
+C:\Users\usuariocc\Downloads\FERALE Version 1\ferale\Ferale\BRL\obj\Debug\BRL.pdb

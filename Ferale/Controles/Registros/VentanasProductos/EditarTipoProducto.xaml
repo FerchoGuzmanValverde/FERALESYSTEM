@@ -1,0 +1,31 @@
+﻿<Window x:Class="Ferale.Controles.Registros.VentanasProductos.EditarTipoProducto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ferale.Controles.Registros.VentanasProductos"
+        mc:Ignorable="d"
+        Title="EditarTipoProducto" Height="319.356" Width="483.422"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        BorderBrush="{StaticResource GreenBrush}" BorderThickness="4" Loaded="Window_Loaded"
+        >
+    <Grid>
+        <materialDesign:ColorZone Background="{StaticResource GreenBrush}" Foreground="{StaticResource WhiteBrush}" Grid.Column="1"  Grid.Row="1"  HorizontalAlignment="Stretch">
+            <Grid>
+                <Button x:Name="Close" Width="50" Margin="0,10,10,4" HorizontalAlignment="Right" Click="Close_Click">
+                    <materialDesign:PackIcon Kind="Close"/>
+                </Button>
+            </Grid>
+        </materialDesign:ColorZone>
+
+        <Label Content="MODIFICAR TIPO" Margin="83,49,0,0" VerticalAlignment="Top" Height="62" FontSize="36" HorizontalAlignment="Left" Width="296"/>
+        <materialDesign:Card x:Name="cardInsertar" Height="58" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Insert_MouseLeftButtonUp" Margin="37,209,0,0" HorizontalAlignment="Left" Width="184">
+            <TextBlock FontSize="18" Foreground="{StaticResource WhiteBrush}" Text="GUARDAR" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </materialDesign:Card>
+        <materialDesign:Card x:Name="cardEditar" Height="58" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Cancelar_MouseLeftButtonUp" Margin="242,209,0,0" HorizontalAlignment="Left" Width="184">
+            <TextBlock FontSize="18" Foreground="{StaticResource WhiteBrush}" Text="CANCELAR" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </materialDesign:Card>
+        <TextBox x:Name="txtTipoProducto" Grid.Row="0" Grid.Column="0" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Tipo Producto" Margin="37,116,0,0" FontSize="16" HorizontalAlignment="Left" Width="389"/>
+    </Grid>
+</Window>

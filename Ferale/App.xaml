@@ -1,0 +1,72 @@
+﻿<Application x:Class="Ferale.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Ferale"
+             StartupUri="Principal\Login.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.LightGreen.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Yellow.xaml" />
+                
+            </ResourceDictionary.MergedDictionaries>
+            
+            <SolidColorBrush Color="#FF7DA62F" x:Key="GreenBrush"/>
+            <SolidColorBrush Color="#FFF4EA43" x:Key="YellowBrush"/>
+            <SolidColorBrush Color="White" x:Key="WhiteBrush"/>
+            <SolidColorBrush Color="#FF2559A5" x:Key="BlueBrush"/>
+            <SolidColorBrush Color="#FFF03D1F" x:Key="RedBrush"/>
+
+            <FontFamily x:Key="TitleFont">fonts/#Roboto-Bold</FontFamily>
+            <FontFamily x:Key="SubtitleFont">fonts/#raavi</FontFamily>
+            <FontFamily x:Key="ContentFont">fonts/#Roboto-Light</FontFamily>
+
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontFamily" Value="{StaticResource ContentFont}" />
+            </Style>
+
+            <Style TargetType="Button">
+                <Setter Property="FontFamily" Value="{StaticResource ContentFont}" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Background" Value="{StaticResource GreenBrush}"/>
+                <Setter Property="Foreground" Value="{StaticResource WhiteBrush}"/>
+                <Setter Property="BorderBrush" Value="{StaticResource GreenBrush}"/>
+                <Setter Property="Width" Value="80"/>
+                <Setter Property="Height" Value="30"/>
+            </Style>
+
+            <ControlTemplate x:Key="ButtonModificado" TargetType="Button">
+                <Grid Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" ClipToBounds="True">
+                    <Rectangle x:Name="outerRectangle" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Stroke="{TemplateBinding Background}" RadiusX="20" RadiusY="20" StrokeThickness="5" Fill="Transparent" />
+                    <Rectangle x:Name="innerRectangle" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Stroke="Transparent" StrokeThickness="20" Fill="{TemplateBinding Background}" RadiusX="20" RadiusY="20" />
+                    <DockPanel Name="myContentPresenterDockPanel">
+                        <ContentPresenter x:Name="myContentPresenter" Margin="20" Content="{TemplateBinding  Content}" TextBlock.Foreground="Black" />
+                    </DockPanel>
+                </Grid>
+            </ControlTemplate>
+
+            <Style TargetType="{x:Type DataGridColumnHeader}">
+                <Setter Property="Background" Value="{StaticResource RedBrush}"/>
+                <Setter Property="Foreground" Value="{StaticResource WhiteBrush}"/>
+                <Setter Property="FontFamily" Value="{StaticResource TitleFont}"/>
+                <Setter Property="SnapsToDevicePixels" Value="True" />
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="Height" Value="40"/>
+                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                <Setter Property="Padding" Value="5"/>
+                <Setter Property="BorderThickness" Value="2"/>
+                <Setter Property="BorderBrush" Value="{StaticResource RedBrush}"/>
+            </Style>
+
+            <Style TargetType="{x:Type ComboBox}">
+                <Setter Property="Background" Value="{StaticResource GreenBrush}"/>
+            </Style>
+            
+
+        </ResourceDictionary>
+        
+    </Application.Resources>
+</Application>

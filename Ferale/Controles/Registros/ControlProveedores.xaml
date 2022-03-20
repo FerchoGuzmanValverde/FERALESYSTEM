@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="Ferale.Controles.Registros.ControlProveedores"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Ferale.Controles.Registros"
+             mc:Ignorable="d" Loaded="UserControl_Loaded" 
+                 xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+                 Height="706" Width="961" FontFamily="Roboto">
+    <materialDesign:Card Margin="40 40 40 40" Padding="20 20 20 20">
+        <Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="250"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1.5*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="ADMINISTRACIÓN DE PROVEEDORES" HorizontalAlignment="Left" Margin="177,10,0,0" VerticalAlignment="Top" Height="62" Width="619" Grid.ColumnSpan="3" FontSize="36"/>
+                <materialDesign:Card Grid.ColumnSpan="3" Height="394" Margin="0,170,190,0">
+                    <DataGrid x:Name="dgDatos" SelectionChanged="DgDatos_SelectionChanged" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True"/>
+                </materialDesign:Card>
+                <StackPanel Height="98" Margin="10,72,31,0" VerticalAlignment="Top" Grid.ColumnSpan="3">
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="35*"/>
+                            <ColumnDefinition Width="57*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBox Grid.Row="0" Grid.Column="0" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" materialDesign:HintAssist.Hint="NIT:" Margin="10,19,94,0" FontSize="16"/>
+                        <TextBox Grid.Row="0" Grid.Column="0" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Razon Social:" Margin="234,19,359,0" FontSize="16" Grid.ColumnSpan="2"/>
+                        <materialDesign:Card Height="59" Margin="165,12,165,0" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Search_MouseLeftButtonUp" Grid.Column="1">
+                            <StackPanel>
+                                <Grid>
+                                    <materialDesign:PackIcon Kind="Search" Height="36" Margin="10,10,0,-28" Width="34" Foreground="{StaticResource WhiteBrush}"/>
+                                    <TextBlock Margin="49,10,24,-28" FontSize="30" Foreground="{StaticResource WhiteBrush}" Text="Buscar"/>
+                                </Grid>
+                            </StackPanel>
+                        </materialDesign:Card>
+                    </Grid>
+                </StackPanel>
+                <materialDesign:Card Height="68" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Insert_MouseLeftButtonUp" Margin="88.8,215,9.8,0" Grid.Column="2">
+                    <TextBlock FontSize="22" Foreground="{StaticResource WhiteBrush}" Text="Crear Nuevo" HorizontalAlignment="Center" VerticalAlignment="Center" Height="35" Margin="10,23,11,10" Width="137" TextAlignment="Center"/>
+                </materialDesign:Card>
+                <materialDesign:Card Height="68" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Edit_MouseLeftButtonUp" Margin="88.8,305,9.8,0" Grid.Column="2">
+                    <TextBlock FontSize="22" TextAlignment="Center" Foreground="{StaticResource WhiteBrush}" Text="Modificar" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </materialDesign:Card>
+                <materialDesign:Card Height="69" Background="{StaticResource BlueBrush}" BorderBrush="{StaticResource BlueBrush}" MouseLeftButtonUp="Delete_MouseLeftButtonUp" Margin="88.8,396,9.8,0" Grid.Column="2">
+                    <TextBlock FontSize="22" TextAlignment="Center" Foreground="{StaticResource WhiteBrush}" Text="Eliminar" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </materialDesign:Card>
+
+            </Grid>
+        </Grid>
+    </materialDesign:Card>
+</UserControl>

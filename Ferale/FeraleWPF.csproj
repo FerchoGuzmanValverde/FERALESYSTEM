@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FAD57A87-2532-4889-878F-BD059F85D85D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Ferale</RootNamespace>
+    <AssemblyName>Ferale</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="MaterialDesignColors, Version=1.2.0.325, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialDesignColors.1.2.0\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=2.6.0.325, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialDesignThemes.2.6.0\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Maps.MapControl.WPF">
+      <HintPath>C:\Program Files (x86)\Bing Maps WPF Control\V1\Libraries\Microsoft.Maps.MapControl.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="ReachFramework" />
+    <Reference Include="sapbusinessobjects.wpf.viewer, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="SAPBusinessObjects.WPF.ViewerShared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Common, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Drawing.Common.4.6.0\lib\net461\System.Drawing.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Telerik.Reporting, Version=13.2.19.1030, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Reporting.OpenXmlRendering, Version=13.2.19.1030, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Reporting.XpsRendering, Version=13.2.19.1030, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.ReportViewer.Wpf, Version=13.2.19.1030, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.ReportViewer.Wpf.Themes, Version=13.2.19.1030, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls, Version=2019.3.1023.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Data, Version=2019.3.1023.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Navigation, Version=2019.3.1023.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Data, Version=2019.3.1023.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Controles\GestionEconomica\ControlCompras.xaml.cs">
+      <DependentUpon>ControlCompras.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\GestionEconomica\ControlSueldos.xaml.cs">
+      <DependentUpon>ControlSueldos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\GestionEconomica\ControlVentas.xaml.cs">
+      <DependentUpon>ControlVentas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\GestionEconomica\SubControlesCompras\EditarCompra.xaml.cs">
+      <DependentUpon>EditarCompra.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\GestionEconomica\SubControlesCompras\InsertarCompra.xaml.cs">
+      <DependentUpon>InsertarCompra.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.xaml.cs">
+      <DependentUpon>EditarHonorario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.xaml.cs">
+      <DependentUpon>InsertarHonorario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\GestionEconomica\SubControlesVentas\EditarVenta.xaml.cs">
+      <DependentUpon>EditarVenta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\GestionEconomica\SubControlesVentas\InsertarVenta.xaml.cs">
+      <DependentUpon>InsertarVenta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Inventario\ControlIngresos.xaml.cs">
+      <DependentUpon>ControlIngresos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Inventario\ControlSalidas.xaml.cs">
+      <DependentUpon>ControlSalidas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Inventario\VentanasProduccion\EditarProduccion.xaml.cs">
+      <DependentUpon>EditarProduccion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Inventario\VentanasProduccion\RegistrarProduccion.xaml.cs">
+      <DependentUpon>RegistrarProduccion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\ControlLimpiezas.xaml.cs">
+      <DependentUpon>ControlLimpiezas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\ControlPlagas.xaml.cs">
+      <DependentUpon>ControlPlagas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.xaml.cs">
+      <DependentUpon>AdminEstablecimientos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.xaml.cs">
+      <DependentUpon>AdminTipoLimpieza.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.xaml.cs">
+      <DependentUpon>EditarEstablecimiento.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.xaml.cs">
+      <DependentUpon>EditarLimpieza.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.xaml.cs">
+      <DependentUpon>EditarTipoLimpieza.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.xaml.cs">
+      <DependentUpon>InsertarEstablecimiento.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.xaml.cs">
+      <DependentUpon>InsertarLimpieza.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.xaml.cs">
+      <DependentUpon>InsertarTipoLimpieza.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasPlaga\EditarPlaga.xaml.cs">
+      <DependentUpon>EditarPlaga.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Limpiezas\VentanasPlaga\InsertarPlaga.xaml.cs">
+      <DependentUpon>InsertarPlaga.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Principal\Inicio.xaml.cs">
+      <DependentUpon>Inicio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Principal\SobreEmpresa.xaml.cs">
+      <DependentUpon>SobreEmpresa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Principal\SobreSistema.xaml.cs">
+      <DependentUpon>SobreSistema.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\ControlClientes.xaml.cs">
+      <DependentUpon>ControlClientes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\ControlEmpleados.xaml.cs">
+      <DependentUpon>ControlEmpleados.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\ControlMateriaPrima.xaml.cs">
+      <DependentUpon>ControlMateriaPrima.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\ControlProductos.xaml.cs">
+      <DependentUpon>ControlProductos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\ControlProveedores.xaml.cs">
+      <DependentUpon>ControlProveedores.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\ControlServicio.xaml.cs">
+      <DependentUpon>ControlServicio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasClientes\InsertCliente.xaml.cs">
+      <DependentUpon>InsertCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasClientes\UpdateCliente.xaml.cs">
+      <DependentUpon>UpdateCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.xaml.cs">
+      <DependentUpon>AdminAreaEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasEmpleado\EditAreaEmpleado.xaml.cs">
+      <DependentUpon>EditAreaEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasEmpleado\EditarEmpleado.xaml.cs">
+      <DependentUpon>EditarEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.xaml.cs">
+      <DependentUpon>InsertAreaEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasEmpleado\InsertarEmpleado.xaml.cs">
+      <DependentUpon>InsertarEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasMateriaPrima\EditarAlmacen.xaml.cs">
+      <DependentUpon>EditarAlmacen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.xaml.cs">
+      <DependentUpon>EditarMateriaPrima.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.xaml.cs">
+      <DependentUpon>InsertarAlmacen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.xaml.cs">
+      <DependentUpon>InsertarMateriaPrima.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasMateriaPrima\WindowAlmacen.xaml.cs">
+      <DependentUpon>WindowAlmacen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasProductos\AdminTipoProductos.xaml.cs">
+      <DependentUpon>AdminTipoProductos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasProductos\EditarProducto.xaml.cs">
+      <DependentUpon>EditarProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasProductos\EditarTipoProducto.xaml.cs">
+      <DependentUpon>EditarTipoProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasProductos\InsertarProducto.xaml.cs">
+      <DependentUpon>InsertarProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasProductos\InsertarTipoProducto.xaml.cs">
+      <DependentUpon>InsertarTipoProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasProveedor\EditarProveedor.xaml.cs">
+      <DependentUpon>EditarProveedor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasProveedor\InsertarProveedor.xaml.cs">
+      <DependentUpon>InsertarProveedor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasServicio\EditarServicio.xaml.cs">
+      <DependentUpon>EditarServicio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Registros\VentanasServicio\InsertarServicio.xaml.cs">
+      <DependentUpon>InsertarServicio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Reportes\ControlReporteClientes.xaml.cs">
+      <DependentUpon>ControlReporteClientes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Reportes\ControlReporteCompras.xaml.cs">
+      <DependentUpon>ControlReporteCompras.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Reportes\ControlReporteLimpiezas.xaml.cs">
+      <DependentUpon>ControlReporteLimpiezas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Reportes\ControlReporteProductos.xaml.cs">
+      <DependentUpon>ControlReporteProductos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Reportes\ControlReporteProveedores.xaml.cs">
+      <DependentUpon>ControlReporteProveedores.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Reportes\ControlReporteStock.xaml.cs">
+      <DependentUpon>ControlReporteStock.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Reportes\ControlReporteVentas.xaml.cs">
+      <DependentUpon>ControlReporteVentas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Menu\UserControlMenuItem.xaml.cs">
+      <DependentUpon>UserControlMenuItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Reportes\LimpiezaListaReporte.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LimpiezaListaReporte.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\Reportes\ListaClientes.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\Reportes\ListaClientes.Designer.cs">
+      <DependentUpon>ListaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FBDialog.xaml.cs">
+      <DependentUpon>FBDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\ForgotPassword.xaml.cs">
+      <DependentUpon>ForgotPassword.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\Settings.xaml.cs">
+      <DependentUpon>Settings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\SplashScreen.xaml.cs">
+      <DependentUpon>SplashScreen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModel\ItemMenu.cs" />
+    <Compile Include="ViewModel\SubItem.cs" />
+    <Page Include="Controles\GestionEconomica\ControlCompras.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\GestionEconomica\ControlSueldos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\GestionEconomica\ControlVentas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\GestionEconomica\SubControlesCompras\EditarCompra.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\GestionEconomica\SubControlesCompras\InsertarCompra.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\GestionEconomica\SubControlesSueldos\EditarHonorario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\GestionEconomica\SubControlesSueldos\InsertarHonorario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\GestionEconomica\SubControlesVentas\EditarVenta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\GestionEconomica\SubControlesVentas\InsertarVenta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Inventario\ControlIngresos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Inventario\ControlSalidas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Inventario\VentanasProduccion\EditarProduccion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Inventario\VentanasProduccion\RegistrarProduccion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\ControlLimpiezas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\ControlPlagas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasLimpieza\AdminEstablecimientos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasLimpieza\AdminTipoLimpieza.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasLimpieza\EditarEstablecimiento.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasLimpieza\EditarLimpieza.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasLimpieza\EditarTipoLimpieza.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasLimpieza\InsertarEstablecimiento.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasLimpieza\InsertarLimpieza.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasLimpieza\InsertarTipoLimpieza.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasPlaga\EditarPlaga.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Limpiezas\VentanasPlaga\InsertarPlaga.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Principal\Inicio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Principal\SobreEmpresa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Principal\SobreSistema.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\ControlClientes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\ControlEmpleados.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\ControlMateriaPrima.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\ControlProductos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\ControlProveedores.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\ControlServicio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasClientes\InsertCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasClientes\UpdateCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasEmpleado\AdminAreaEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasEmpleado\EditAreaEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasEmpleado\EditarEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasEmpleado\InsertAreaEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasEmpleado\InsertarEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasMateriaPrima\EditarAlmacen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasMateriaPrima\EditarMateriaPrima.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasMateriaPrima\InsertarAlmacen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasMateriaPrima\InsertarMateriaPrima.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasMateriaPrima\WindowAlmacen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasProductos\AdminTipoProductos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasProductos\EditarProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasProductos\EditarTipoProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasProductos\InsertarProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasProductos\InsertarTipoProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasProveedor\EditarProveedor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasProveedor\InsertarProveedor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasServicio\EditarServicio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Registros\VentanasServicio\InsertarServicio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Reportes\ControlReporteClientes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Reportes\ControlReporteCompras.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Reportes\ControlReporteLimpiezas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Reportes\ControlReporteProductos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Reportes\ControlReporteProveedores.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Reportes\ControlReporteStock.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controles\Reportes\ControlReporteVentas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Principal\FBDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Principal\ForgotPassword.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Principal\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Principal\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Principal\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Controles\Menu\UserControlMenuItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Principal\Settings.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Principal\SplashScreen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Controles\Reportes\LimpiezaListaReporte.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LimpiezaListaReporte.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\Reportes\ListaClientes.resx">
+      <DependentUpon>ListaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Resource Include="fonts\raavi.ttf" />
+    <Resource Include="fonts\Roboto-Bold.ttf" />
+    <Resource Include="fonts\Roboto-Light.ttf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="BRL\BRL.csproj">
+      <Project>{2d274d97-3cc3-4b28-ba5e-9abf68719295}</Project>
+      <Name>BRL</Name>
+    </ProjectReference>
+    <ProjectReference Include="Common\Common.csproj">
+      <Project>{12b2502d-dcbe-4459-9e40-d56c3f5ae6eb}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="DAL\DAL.csproj">
+      <Project>{0D7D556E-396D-415E-B9AB-5B26C5B02781}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\logoHoja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\0.jpg" />
+    <Resource Include="img\1.jpg" />
+    <Resource Include="img\2.jpg" />
+    <Resource Include="img\3.jpg" />
+    <Resource Include="img\4.jpg" />
+    <Resource Include="img\5.jpg" />
+    <Resource Include="img\6.jpg" />
+    <Resource Include="img\7.jpg" />
+    <Resource Include="img\8.jpg" />
+    <Resource Include="img\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controles\Inventario\VentanasIngresos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\fondo_vivero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
